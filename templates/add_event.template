@@ -3,7 +3,7 @@
 use Arrilot\BitrixMigrations\BaseMigrations\BitrixMigration;
 use Arrilot\BitrixMigrations\Exceptions\MigrationException;
 
-class ____ extends BitrixMigration
+class __className__ extends BitrixMigration
 {
     const EVENT_NAME = '';
 
